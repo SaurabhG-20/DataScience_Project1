@@ -22,4 +22,5 @@ users.head() sessions.head() transactions.head()
 
 # Note 
 
-1. 
+1. Please refer Screenshot directory for output of Screenshot 
+2. Please refer Sourcecode directory for Pyhton Sourcecode file
